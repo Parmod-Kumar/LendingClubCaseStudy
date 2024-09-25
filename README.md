@@ -1,5 +1,9 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> The object of this case study is to find which types of loans have been defaulted in the Past and 
+implement EDA to understand how consumer attributes and loan attributes influence the 
+tendency of default. The aim is to identify patterns which indicate if a person is likely to default, 
+which may be used for taking actions such as denying the loan, reducing the amount of the loan, 
+lending (to risky applicants) at a higher interest rate, etc.
 
 
 ## Table of Contents
